@@ -1,7 +1,7 @@
 Movies' releases to look forward to:
 
-	- Oppenheimer - 21/07/23
-	- The Menu - 18/11/22
-	- Glass Onion - 23/12/22
-	- Amsterdam - TBA
-	- TODO add some more movies here, I don't have time right now, I am really hungry.
+- Oppenheimer - 21/07/23
+- The Menu - 18/11/22
+- Glass Onion - 23/12/22
+- Amsterdam - TBA
+- TODO add some more movies here, I don't have time right now, I am really hungry.
